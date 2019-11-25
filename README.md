@@ -1,2 +1,0 @@
-# ReactJSWorkingWithEvents
-Created with CodeSandbox
